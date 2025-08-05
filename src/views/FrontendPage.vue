@@ -4,7 +4,7 @@
 
 <template>
   <div class="frontend-page">
-    <h1>个人网站</h1>
+    <h1>断网青年的个人网站</h1>
     <p>这里是前端展示页面，内容后续填充。</p>
   </div>
 </template>
